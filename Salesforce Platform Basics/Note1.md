@@ -13,5 +13,5 @@
 #### Salesforce Platform
 - **Declarative development:** <br>Developing without code, with declarative development, you use forms and drag-and-drop tools to perform powerful customization tasks.
 - **Programmatic development:** <br> Use things like Lightning components. 
-
-![image](https://user-images.githubusercontent.com/83938514/166170371-be916bc2-8f9e-49b6-87cc-7208ee49a391.png)
+#### Architecture
+<img src="https://user-images.githubusercontent.com/83938514/166170371-be916bc2-8f9e-49b6-87cc-7208ee49a391.png" alt="Architecture" width="500" high="400"/>
