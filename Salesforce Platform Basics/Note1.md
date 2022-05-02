@@ -1,4 +1,4 @@
-### Setup Menu
+### Salesforce Platform
 
 #### Administration  
 - add users 
@@ -10,7 +10,7 @@
 2. If you decide to try your hand at programmatic development, Platform Tools is where you manage your code as well.
 3. Settings add business hours, change your locale, and view your org’s history.
 
-#### Salesforce Platform
+#### Concepts
 - **Declarative development:** <br>Developing without code, with declarative development, you use forms and drag-and-drop tools to perform powerful customization tasks.
 - **Programmatic development:** <br> Use things like Lightning components. 
 #### Architecture
